@@ -1,6 +1,8 @@
 # About
   This is a simple example how to Call fragment's method from Activity.
   
+  <img src="http://thedeveloperworldisyours.com/wp-content/uploads/transferDataActivityFragmentII.gif" alt="" />
+  Also visit my blog:
   http://thedeveloperworldisyours.com/
   
   
