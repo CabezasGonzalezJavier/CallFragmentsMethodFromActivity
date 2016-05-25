@@ -8,8 +8,11 @@
   
   
   <img src="http://thedeveloperworldisyours.com/wp-content/uploads/transferDataActivityFragmentII.gif" alt="" />
-  Also visit my blog:
-  http://thedeveloperworldisyours.com/
+  
+  
+  
+  Also visit my blog: **[The developer world is yours](http://thedeveloperworldisyours.com/)**
+  
   
   
   
