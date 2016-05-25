@@ -3,8 +3,7 @@
   
   
   You can check this post:
-  <a href="http://thedeveloperworldisyours.com/#sthash.8hcfZ0hl.1322wbxx.dpbs">Send data from activity to fragment on android II</a>
-  
+  **[Send data from activity to fragment on android II](http://thedeveloperworldisyours.com/#sthash.8hcfZ0hl.1322wbxx.dpbs)**
   <img src="http://thedeveloperworldisyours.com/wp-content/uploads/transferDataActivityFragmentII.gif" alt="" />
   Also visit my blog:
   http://thedeveloperworldisyours.com/
